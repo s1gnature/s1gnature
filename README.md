@@ -2,7 +2,7 @@
 - 🏛 Incheon National Univ. 2016
 - 🧑🏻‍💻 Want to iOS Developer
 - 📝 Studing Swift, Python
-- 🙋🏻 ![ENFP](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
+- 🙋🏻 [ENFP](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 <!--
 **s1gnature/s1gnature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
