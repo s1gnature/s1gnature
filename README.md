@@ -1,7 +1,7 @@
 
 - 🏛 Incheon National Univ. 2016
 - 🧑🏻‍💻 Want to iOS Developer
-- 📝 Studing Swift, Python
+- 📝 2021_Boostcamper now!
 - 🙋🏻 I am [ENFP!](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - 📒 [All About Me](https://www.notion.so/b721f21843484c5787c62385540b174a)
 <!--
