@@ -1,7 +1,7 @@
 
 - 🏛 Incheon National Univ. 2016
 - 🧑🏻‍💻 Want to iOS Developer
-- 📝 boostcamp-6th-iOS now!
+- 📝 부스트캠프 웹·모바일 6기 iOS 수료
 - 🙋🏻 I am [ENFP!](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - 📒 [All About Me](https://www.notion.so/b721f21843484c5787c62385540b174a)
 <!--
