@@ -30,6 +30,11 @@
 <br>
   
   
+### Blog<Br>
+📚 https://itllbegone.tistory.com
+  
+<br>
+  
 
 
 
