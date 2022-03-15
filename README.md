@@ -26,8 +26,8 @@
 
   
 ### Contact<br>
-✉️ lamant0486@naver.com
-🚀 https://www.rocketpunch.com/@itllbegone
+✉️ lamant0486@naver.com<br>
+🚀 https://www.rocketpunch.com/@itllbegone<br>
 
 <br>
   
