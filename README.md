@@ -28,7 +28,6 @@
 ### Contact<br>
 ✉️ lamant0486@naver.com<br>
 🖇️ https://www.linkedin.com/in/s1gnature/
-🚀 https://www.rocketpunch.com/@itllbegone<br>
 
 <br>
   
